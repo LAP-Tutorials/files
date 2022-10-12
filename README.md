@@ -9,14 +9,14 @@
 <img src=".\logo\LP-Teach-Logo-Dark(name).png" width="100px" align="left"/>
 
 <img src=".\logo\LP-Teach-Logo-Dark(trans).png" width="100px" align="left"/>
-
+ 
 <img src=".\logo\LP-Teach-Logo.png" width="100px" align="left"/>
 
 <img src=".\logo\LP-Teach-Logo(name,Trans).png" width="100px" align="left"/>
 
 <img src=".\logo\LP-Teach-Logo(name).png" width="100px" align="left"/>
 
-<img src=".\logo\LP-Teach-Logo(trans).png" width="100px" align="left"/>
+<img src=".\logo\LP-Teach-Logo(trans).png" width="100px"/>
 
 --- 
 
