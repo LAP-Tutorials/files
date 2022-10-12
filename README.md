@@ -16,7 +16,7 @@
 
 <img src=".\logo\LP-Teach-Logo(name).png" width="100px" align="left"/>
 
-<img src=".\logo\LP-Teach-Logo(trans).png" width="100px"/>
+<img src=".\logo\LP-Teach-Logo(trans).png" width="100px" align="left"/>
 
 --- 
 
