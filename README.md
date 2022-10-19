@@ -18,8 +18,6 @@
 
 <img src=".\logo\LP-Teach-Logo(trans).png" width="100px" />
 
---- 
-
 <h2>Banner</h2>
 
 <img src="banner\banner.jpg" width="400px" align="center"/>
